@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DrawFaceSobel.vcxproj" Id="41ffb748-3f60-46f4-b7f8-6bafbe918ae8" />
+</Solution>
